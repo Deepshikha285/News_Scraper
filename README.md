@@ -43,7 +43,7 @@ python news_scraper.py
  
 1. Sends an HTTP GET request to the target website using requests.
 2. Parses the HTML response using BeautifulSoup.
-3. Extracts all headlines from <h2> tags.
+3. Extracts all headlines from <h2 tags.
 4. Saves the headlines into a clean .txt file.
 
 Output Example (headlines.txt)
