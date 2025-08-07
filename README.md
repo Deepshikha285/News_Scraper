@@ -23,7 +23,7 @@ This is a simple Python script that scrapes the top news headlines from a public
 
 1. **Clone the repository** (or download the `.py` file):
    ```bash
-   git clone https://github.com/yourusername/news-headline-scraper.git
+   git clone (https://github.com/Deepshikha285/News_Scraper)
    cd news-headline-scraper
 
 Install the required packages:
